@@ -27,7 +27,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 `sudo apt-get install lua-sec`
 
 ```
-git clone https://github.com/iamjavid/sticker_bot.git
+git clone https://github.com/iamwildyaqi/sticker_bot.git
 cd sticker_bot
 
 ```
@@ -55,4 +55,4 @@ Start the bot
 `lua bot.lua`
 
 
-Developer : [JAVID](https://telegram.me/iamjavid)
+Developer : [WILD-YAQI](https://telegram.me/iamwildyaqi)
